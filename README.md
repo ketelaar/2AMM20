@@ -1,4 +1,4 @@
-# 2AMM20
+# 2AMM20 Code
 
 ## Duplication of the Mushrooms Dataset
 **Note: This file was tested with Python 3.11.4 and pandas 2.1.1. Pandas is the only Python dependency that is required for this script**
