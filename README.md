@@ -21,9 +21,9 @@ python duplicate.py 1000
 This will produce the file ``mushrooms-1000.csv``, which is the mushrooms dataset duplicated a 1000 times.
 
 ## Execution of PySubgroup, Subgroups and RSubgroup
-Subgroup Discovery can be done by ``PySubgroup`` by executing ``main.py`` (found in the ``pysubgroup`` directory). Python of at least version 3.6 is needed to run this process.
+Subgroup Discovery can be done with the ``PySubgroup`` package by executing ``main.py`` (found in the ``pysubgroup`` directory). Python of at least version 3.6 is needed to run this process.
 
-Subgroup Discovery can be done by ``Subgroups`` by executing ``main2.py`` (found in the ``subgroups`` directory). Python of at least version 3.9 is needed to run this process.
+Subgroup Discovery can be done with the``Subgroups`` package by executing ``main2.py`` (found in the ``subgroups`` directory). Python of at least version 3.9 is needed to run this process.
 
-Subgroup Discovery can be done by ``RSubgroup`` by executing ``main.r`` (found in the ``rsubgroup`` directory). R of at least version 2.10 and Java at least version 8 are both needed to run this process.
+Subgroup Discovery can be done with the ``RSubgroup`` package by executing ``main.r`` (found in the ``rsubgroup`` directory). R of at least version 2.10 and Java at least version 8 are both needed to run this process.
 
